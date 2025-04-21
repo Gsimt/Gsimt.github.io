@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gsimt.github.io/</id>
+    <title>Gsimt's blog</title>
+    <updated>2025-04-21T10:49:05.740Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Gsimt</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://gsimt.github.io/"/>
+    <link rel="self" href="https://gsimt.github.io/atom.xml"/>
+    <subtitle>Gsimt's blog.</subtitle>
+    <logo>https://gsimt.github.io/images/avatar.jpeg</logo>
+    <icon>https://gsimt.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © Gsimt</rights>
+    <entry>
+        <title type="html"><![CDATA[Photos]]></title>
+        <id>https://gsimt.github.io/posts/album</id>
+        <link href="https://gsimt.github.io/posts/album"/>
+        <updated>2025-04-21T10:48:16.993Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://gsimt.github.io/posts/album" target="_blank">https://gsimt.github.io/posts/album</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Gsimt</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-21T10:48:16.993Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论如何处理书籍]]></title>
+        <id>https://gsimt.github.io/posts/论如何处理书籍</id>
+        <link href="https://gsimt.github.io/posts/论如何处理书籍"/>
+        <updated>2022-05-17T13:05:47.000Z</updated>
+        <content type="html"><![CDATA[<p>对如何处理看完的书籍的一些思考</p>
+<br/><p>访问 <a href="https://gsimt.github.io/posts/论如何处理书籍" target="_blank">https://gsimt.github.io/posts/论如何处理书籍</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Gsimt</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-21T10:48:16.993Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论恋爱关系]]></title>
+        <id>https://gsimt.github.io/posts/论恋爱关系</id>
+        <link href="https://gsimt.github.io/posts/论恋爱关系"/>
+        <updated>2022-05-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>毕业答辩后，受最近一些经历的影响，得出了一套对恋爱关系阶段的划分</p>
+<br/><p>访问 <a href="https://gsimt.github.io/posts/论恋爱关系" target="_blank">https://gsimt.github.io/posts/论恋爱关系</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Gsimt</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-21T10:48:16.993Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://gsimt.github.io/posts/hello-valaxy</id>
+        <link href="https://gsimt.github.io/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://gsimt.github.io/posts/hello-valaxy" target="_blank">https://gsimt.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>Gsimt</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>
