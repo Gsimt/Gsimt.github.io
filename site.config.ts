@@ -6,7 +6,9 @@ export default defineSiteConfig({
   title: "Gsimt's blog",
   author: {
     name: 'Gsimt',
+    avatar: 'images/avatar.jpeg',
   },
+  favicon: 'images/favicon.ico',
   description: "Gsimt's blog.",
   social: [
     {
